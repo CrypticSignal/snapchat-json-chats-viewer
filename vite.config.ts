@@ -5,5 +5,5 @@ import tailwindcss from "@tailwindcss/vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "/snapchat-chats-json-viewer/",
+  base: "/snapchat-json-chat-viewer/",
 });
